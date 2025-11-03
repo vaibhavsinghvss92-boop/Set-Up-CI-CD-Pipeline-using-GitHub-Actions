@@ -1,3 +1,3 @@
+![WhatsApp Image 2025-11-03 at 11 36 37_aa3e50d9](https://github.com/user-attachments/assets/296eda36-b404-4782-b9be-2df778981946)
 
-![WhatsApp Image 2025-11-03 at 11 36 35_95b2d362](https://github.com/user-attachments/assets/d9579b10-15b4-4be7-aeeb-866722d9a879)
 # Set-Up-CI-CD-Pipeline-using-GitHub-Actions
